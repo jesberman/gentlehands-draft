@@ -1,0 +1,71 @@
+.navbar-brand {
+    position: relative;
+    top: 8px;
+    font-size: 18px;
+}
+
+.nav-link {
+    font-size: 14px;
+
+}
+
+.pt-4 {
+    background-color: #0094EC;
+    color: white;
+}
+
+.jumbotron {
+    margin: 40px;
+    border-radius: 25px;
+    background-color: #00C5C3;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+
+
+}
+
+.text-uppercase {
+    color: white;
+}
+
+.list-unstyled {
+    color: white;
+}
+
+.py-3 {
+ background-color: #0076BD;
+ color: white;
+}
+
+.carousel {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.carousel-inner {
+    border-radius: 25px;
+        box-shadow: 2px 2px 5px black;
+
+
+}
+.carousel-control {
+    border-radius: 25px;
+
+}
+
+.slide-text {
+    position: relative;
+    bottom: 30px;
+    color: white;
+}
+
+.test {
+    position: relative;
+    bottom: 170px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 75px;
+}
